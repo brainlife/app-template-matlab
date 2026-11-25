@@ -62,3 +62,7 @@ The config.json file contains the parameters and the path to the input data need
 Running the App on brainlife.io really means "execute this main.m script on a computing resource." 
 
 You can submit this App online at [https://doi.org/10.25663/bl.app.1](https://doi.org/10.25663/bl.app.1) via the "Execute" tab.
+
+## Writing your App's README
+
+Start your README from the brainlife App README template, [`abcd-spec/templates/README.md`](https://github.com/brainlife/abcd-spec/blob/master/templates/README.md) (the layout of the [FreeSurfer App](https://github.com/brainlife/app-freesurfer)). Its "At a glance" section is generated from your App manifest with `python tools/readme.py brainlife.app.json README.md` from abcd-spec.
