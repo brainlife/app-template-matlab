@@ -14,10 +14,10 @@ As example the App simply does the following:
 </ol>
  
 ### Author
-- [Franco Pestilli](pestilli@utexas.edu)
+- [Franco Pestilli]([@francopestilli](https://github.com/francopestilli))
 
 ### Contributors
-- [Franco Pestilli](pestilli@utexas.edu)
+- [Franco Pestilli]([@francopestilli](https://github.com/francopestilli))
 
 #### Copyright (c) 2020 brainlife.io The University of Texas at Austin and Indiana University
 
